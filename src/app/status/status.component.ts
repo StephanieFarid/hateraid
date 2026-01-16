@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class StatusComponent {
 
-  status: string = "I'm just a hater"
+  status: string = "I'm just a hater. You too can be one soon. don't be one from outside of the club, you're all welcome in"
 
 }
