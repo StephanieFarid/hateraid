@@ -4,7 +4,7 @@ import Link from 'next/link'
 const page = () => {
   return (
     <div>
-        <h1 className="font-mono p-20">
+        <h1 className="font-mono p-05">
             previously I hated...
             <br />
             <br />

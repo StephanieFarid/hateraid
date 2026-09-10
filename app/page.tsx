@@ -4,7 +4,7 @@ import LiveDate from '@/app/components/Livedate'
 
 const page = () => {
   return (
-    <div className="font-mono p-20">
+    <div className="font-mono p-05">
       <LiveDate />
       <br />
       Dear diary,
