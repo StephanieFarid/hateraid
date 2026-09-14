@@ -9,6 +9,14 @@ const page = () => {
             <br />
             <br />
             <p>
+                old people that play in their mouth in public.
+                 <br />
+                      Inspired by: an old lady flossing during a conversation at the airport.
+
+            </p>
+            <br />
+            <br />
+            <p>
                 toes out in public, its unnccesary and very gross.
                  <br />
                       Inspired by: The guy on my plane ride back from Guatemala wearing flip flops
