@@ -9,6 +9,14 @@ const page = () => {
             <br />
             <br />
             <p>
+                people who whitewash their personlity for the comfort of others
+                 <br />
+                      Inspired by: Somwone pronouncing their name wrong because they were worried about the person they were saying it to being uncomfortable.
+
+            </p>
+            <br />
+            <br />
+            <p>
                 old people that play in their mouth in public.
                  <br />
                       Inspired by: an old lady flossing during a conversation at the airport.
